@@ -12,3 +12,4 @@ Alt-H1
 
 Alt-H2
 ------
+theme: jekyll-theme-minimal
